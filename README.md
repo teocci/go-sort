@@ -1,5 +1,5 @@
-## go-sort [![Go Reference][1]][2]
-`go-sort` is an open-source tool for sorting. It provides parallel radix sorting by a `string`, `[]byte`, or `(u)int64` key, and a parallel `Quicksort(data)`. `sortmgr` sorts common slice types and adds functions to help sort `floats`.
+## go-sorts [![Go Reference][1]][2]
+`go-sorts` is an open-source tool for sorting. It provides parallel radix sorting by a `string`, `[]byte`, or `(u)int64` key, and a parallel `Quicksort(data)`. `sortmgr` sorts common slice types and adds functions to help sort `floats`.
 
 
 ## Features
@@ -37,6 +37,6 @@ func main() {
 ----
 #### In case you face trouble, please feel free to open an issue.
 
-[1]: https://pkg.go.dev/badge/github.com/teocci/go-sort.svg
-[2]: https://pkg.go.dev/github.com/teocci/go-sort
-[3]: https://github.com/teocci/go-sort/releases/latest
+[1]: https://pkg.go.dev/badge/github.com/teocci/go-sorts.svg
+[2]: https://pkg.go.dev/github.com/teocci/go-sorts
+[3]: https://github.com/teocci/go-sorts/releases/latest
